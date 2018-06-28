@@ -1,4 +1,3 @@
-![abra](https://raw.githubusercontent.com/wiki/Thutmose/Pokecube/pokemobs/img/Abra.png)
 # Shutting Down Ion Beam
 
 Note: No time limitations when reducing currents and voltages for shutdown.
