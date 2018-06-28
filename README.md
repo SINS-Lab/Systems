@@ -2,4 +2,4 @@
 This will contain drafts of procedures of various systems in the lab.
 
 
-## Note that files and folders in here should not contain spaces in their names, to facilitate the use of gitprint
+## Note that printable files should end in ".md", not ".MD", to facilitate the use of gitprint
