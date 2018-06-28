@@ -21,3 +21,4 @@ Note: Do not leave these batteries connected to the source for extended periods 
 ## Troubleshooting – common issues:
 * Use high voltage probe and DMM to measure voltage on the isolated part of the source in the acrylic box. (The display for “V-Accel” shows the programmed voltage and not a measured voltage.)
 * Use DMM to measure the voltage across the three series 6V batteries (should be around 19V).
+* Check that the bias battery voltage is being applied to the source, if not, ensure that the servo arm from the Arduino is properly positioned.
