@@ -1,4 +1,4 @@
-# Procedure for Pumping Down Section 1
+# Procedure for Pumping Down
 
 * Load sample and completely shut vacuum port door
 * First hand tighten ‘Gold-Seal Valve’ and then tighten to 8 ft-lb (96 in-lb) with appropriate torque wrench
