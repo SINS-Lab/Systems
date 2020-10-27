@@ -5,6 +5,7 @@
 -  Follow procedures for starting a beam in S1
 -  Turn off the ion gauge for S2
 -  Connect an electrometer to F and to FC2
+-  Connect an electrometer or other similar device to M
 
 ## Supply turn on order:
 
@@ -27,6 +28,8 @@ Locating the hole in F is done by adjusting the X1/Y1 deflector voltages, as wel
 
 ### Notes for locating the hole:
 
-It helps to be monitoring the beam current on the other side of the Mono (at FC2), as that should behave with an opposite trend from the current on F, when F's current drops, the current on the other side should rise.
+It helps to be monitoring the beam current on the other side of the Mono (at FC2 and M), as that should behave with an opposite trend from the current on F, when F's current drops, the current on the other side should rise.
+
+If most of the beam is hitting M, but almost none on FC2, then do slight adjustments to the Mono's voltage, if the voltage does not very closely correspond to the pass energy of the velocity filter, then most of the beam will end up hitting M instead of passing through the exit aperture.
 
 After adjusting VF2, the parameters in X1/Y1 will tend to shift a bit, so make fine adjustments to VF2, then re-adjust X1/Y1. similar for any adjustments to VF1.
