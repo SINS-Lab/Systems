@@ -8,3 +8,4 @@ Sourcemeter, KE2400 A|26
 Sourcemeter, KE2400 B|28
 Multimeter, KE2000 A|15
 Multimeter, KE2000 B|16
+Multimeter, KE2010 A|17
