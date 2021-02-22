@@ -1,0 +1,52 @@
+Kauffman eH 200 hollow cathode operating procedures:
+
+-Turn off ion pump. Chamber should be in low 10-7 torr.
+-Turn on Auto controller, Discharge controller, and Filament controller
+-Open the gas flow from cylinder to the electronic regulator (black box)
+-Enable auto controller
+	--Gas knob ( 0 = closed; 1  = sometimes gas flow on/off) – adjust to desired pressure in chamber
+		---Gas flow can go to a maximum to 21 sccm
+		---Green light = gas flowing -> actual flow (10 sccm = good number)
+--When gas is released 10-3 torr (this is a high-pressure application).
+- enabling the discharge controller.
+--Discharge system *max Power = 300 Watts*
+		If you go over this max power this can damage the ion source
+--Good starting point is 150 V at  1.0 Amps (slowly increase current control)
+-Enable filament controller 
+	-adjust cathode emission (filament until the cathode meter reads 1.0-1.8 Amps)
+-Increase gas flow to 6.9 sccm, set discharge controller: voltage to 62 V and current to 1.98 Amps 
+If you turn down the voltage emission will drop because nothing gets excited.
+Ocean optics – copy and put in excel file, remove header row and save data. 
+	
+Shut down procedures
+-Cut gas flow to 5.0 
+--plasma increases voltage which could make the Kaufman ion source break
+-slowly turn down the filament controller and discharge controller down to 1.0 A.
+-Hit to standby then close gas filled controller
+-Turn off the auto controller, discharge controller, and filament controller; close the gas chamber knob on the chamber, and finger tighten the regulator to close (on the gas canister)
+Side note:
+-Kaufman filaments last about 10 – 30 hours. (we have some replacement filaments.)
+	--can operate up to 4.0 Amps of emission current.
+-Sometimes Spectra does not show up on Ocean optics software – close and reopen the 
+software
+-If using Argon atoms – chamber can glow blue from Argon ions (Ar+ and Ar 2+)
+	-When you turn on the emission filament controller the blue light will brighten
+-Chamber can get hot (30 mins run approx 45 oC ->60 oC damages human skin) 
+		--Use a thermocouple to measure temperature on readout display
+--Temperature at max gas flow 75 oC
+-Depending on spectra the window, spectrometer, or fiber can limit the data. Window cuts off at 400 nm, fiber 200 nm, spectrometer 200 nm, 
+-Sometimes the auto controller will flash red (we don’t know reason but it can go back to normal)
+-The emission controller should be relatively low power output, and the discharge 
+controller is the one typically around 100 - 200 Watts 
+
+
+*The important thing is to keep the gas flow high enough, otherwise the controller will draw too much power trying to sustain the discharge at lower pressures. The gas flow turn on is a bit of a step function, i.e. the gas flow at low pressures (near the cutoff of the flow controller) is somewhat unstable.
+
+
+	
+	
+
+	
+	
+
+
