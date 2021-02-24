@@ -1,0 +1,26 @@
+LEED start up and shut down procedures
+1.	Make sure AES (Auger) is clear. Move Sample manipulator to 1280. Then move LEED holder to X=3.0 inches (inside to inside) or X = 4.78125 inches (outside to outside). The outside to outside is labeled in green, and the inside to inside measurements is labeled in red in the figure below.
+ 
+2.	Set Anode offset to 475 V.
+3.	Warm up filament
+a.	Two options to do this:
+i.	Option 1:
+1.	Turn filament current to 1 Amp for 10 mins
+2.	Slowly turn up to 2.5 Amps for operation (emission current is about 20 microamps)
+ii.	Option 2:
+1.	Slowly turn up filament by small half turn (inner 0-5) increments every 1-2 minutes.
+Key note: is that pressure does not go near 5E-9. *If so this could damage the filament in the LEED while LEED is probably outgassing.*
+4.	Set Wehnelt = 0. 
+5.	Turn Suppression all the way up (about 4.5)
+6.	Turn off the RGA filament and the Ion gauge. 
+
+DO NOT TURN ON THE SCREEN HV UNTIL ALL LIGHTS ARE OFF!
+7.	Set energy to desired level (ex: 50 eV)
+8.	Turn off room lights and make sure that no light is going near/into LEED.
+9.	Turn on Screen HV switch and set to 6.00 on the knob (this is the outer 6)
+10.	Adjust L3 (prop) and L2 (offset) to get a good pattern.
+-	L2 offset requires a bit of course L2 before measurements shown on LEED display for L2 offset
+
+Remember: Turn off the screen HV before turning the lights on.
+11.	Pull LEED out to X=6.0 inches (inside to inside) or X = 7.78125 inches (outside to outside). 
+-This allows you to move the sample holder if you want to do something else after LEED.
