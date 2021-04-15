@@ -1,5 +1,8 @@
 # Shutting Down Ion Beam
 
+## Update the source log:
+Record the time, source current, number of turns, and the pressure (S1) in the source log every time you start the beam (before and after turning up the source) and when you shut down the beam (before and after turning the source off).
+
 Note: No time limitations when reducing currents and voltages for shutdown.
 
 * Turn dial for source current (MIT Ion Source) back to zero.
@@ -16,5 +19,3 @@ Note: No time limitations when reducing currents and voltages for shutdown.
 * Leave system like this if you plan to do more experiments on the currently loaded sample in the next week or two, otherwise turn off pumps and vent chamber (see relevant instructions).
 
 
-## Update the source log:
-Record the time, source current, number of turns, and the pressure (S1) in the source log every time you start the beam (before and after turning up the source) and when you shut down the beam (before and after turning the source off).
